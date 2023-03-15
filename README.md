@@ -1,2 +1,2 @@
 # Tutoria-Clase-Csharp
- Aprendiendo C#, clase 6
+ Clase 6
